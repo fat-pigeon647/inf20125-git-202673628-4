@@ -1,2 +1,3 @@
-# inf20125-git-202673628-4
-Laboratorio de Programacion Avanzada 2026 2 del miercoles 21-10
+# Área y perímetro de un círculo
+
+Este repositorio contiene un programa en C que calcula el área y el perímetro de un círculo.
